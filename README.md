@@ -544,18 +544,6 @@ python ml_pipeline/convert_to_tflite.py
 **Note**: All permissions are requested with clear explanations during onboarding.
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
-
-### Development Workflow
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ### Code Style
 - **Flutter/Dart**: Follow [Effective Dart](https://dart.dev/guides/language/effective-dart)
 - **Python**: Follow [PEP 8](https://pep8.org/)
@@ -573,11 +561,7 @@ This project is proprietary software. All rights reserved.
 
 ## 📞 Contact & Support
 
-- **Email**: support@detooz.com
-- **Website**: https://detooz.com
-- **Documentation**: https://docs.detooz.com
-- **Issue Tracker**: https://github.com/your-org/detooz/issues
-
+- **Email**: detooz4734@gmail.com
 ---
 
 ## 🙏 Acknowledgments
@@ -593,7 +577,7 @@ This project is proprietary software. All rights reserved.
 ## 📊 Project Status
 
 **Current Version**: 1.0.0  
-**Status**: Active Development  
+**Status**: Active Development(Semi-last stage)  
 **Last Updated**: February 11, 2026
 
 ### Roadmap
@@ -601,7 +585,7 @@ This project is proprietary software. All rights reserved.
 - [x] Guardian alert system
 - [x] On-device ML model
 - [x] Multi-language support
-- [ ] WhatsApp/Telegram detection (in progress)
+- [x] WhatsApp/Telegram detection 
 - [ ] iOS version (planned)
 - [ ] Call scam detection (planned)
 - [ ] Browser extension (planned)
