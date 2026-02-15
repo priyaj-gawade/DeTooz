@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/66da40e1-3d24-4fd1-b5c7-652b099aa12c"
      width="200"
      height="200"
-     style="border-radius:50%;" />/>
+     style="border-radius:25px;" />
 <p>
 
 
