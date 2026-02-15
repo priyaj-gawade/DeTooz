@@ -2,10 +2,11 @@
 
 <div align="center">
 <p>
-  <img src="https://github.com/user-attachments/assets/66da40e1-3d24-4fd1-b5c7-652b099aa12c"
+  <img src="https://github.com/user-attachments/assets/39c2f858-2b58-4bf3-adce-030783d119fa"
      width="200"
      height="200"
      style="border-radius:25px;" />
+
 <p>
 
 
