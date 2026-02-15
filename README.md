@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Detooz Logo](https://via.placeholder.com/200x200?text=Detooz)
+![Detooz Logo](https://via.placeholder.com/200x200?text=Detooz)<img width="595" height="595" alt="image" src="https://github.com/user-attachments/assets/66da40e1-3d24-4fd1-b5c7-652b099aa12c" width="200" height="200" style="border-radius: 25px;" />
+
 
 **Protecting India from SMS, WhatsApp, and Telegram Scams**
 
@@ -560,14 +561,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for
 - **Flutter/Dart**: Follow [Effective Dart](https://dart.dev/guides/language/effective-dart)
 - **Python**: Follow [PEP 8](https://pep8.org/)
 - **Commits**: Use [Conventional Commits](https://www.conventionalcommits.org/)
-
----
-
-## 📄 License
-
-This project is proprietary software. All rights reserved.
-
-**Copyright © 2026 Detooz Team**
 
 ---
 
