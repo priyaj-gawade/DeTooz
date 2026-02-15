@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Detooz Logo](https://via.placeholder.com/200x200?text=Detooz)<img width="595" height="595" alt="image" src="https://github.com/user-attachments/assets/66da40e1-3d24-4fd1-b5c7-652b099aa12c" width="200" height="200" style="border-radius: 25px;" />
+<img width="595" height="595" alt="image" src="https://github.com/user-attachments/assets/66da40e1-3d24-4fd1-b5c7-652b099aa12c" width="200" height="200" style="border-radius: 50%;" />
 
 
 **Protecting India from SMS, WhatsApp, and Telegram Scams**
