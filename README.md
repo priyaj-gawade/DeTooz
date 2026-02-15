@@ -1,8 +1,9 @@
 # Detooz - AI-Powered Scam Detection Platform
 
 <div align="center">
-
-<img width="595" height="595" alt="image" src="https://github.com/user-attachments/assets/66da40e1-3d24-4fd1-b5c7-652b099aa12c" width="200" height="200" style="border-radius: 50%;" />
+<p>
+  <img width="595" height="595" alt="image" src="https://github.com/user-attachments/assets/66da40e1-3d24-4fd1-b5c7-652b099aa12c" width="200" height="200" style="border-radius: 50%;" />
+<p>
 
 
 **Protecting India from SMS, WhatsApp, and Telegram Scams**
